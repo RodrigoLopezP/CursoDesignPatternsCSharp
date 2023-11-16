@@ -4,8 +4,9 @@
     "\\DesignPattern",
     "\\DesignPatterns.Models",
     "\\DesignPatterns.Repository",
-    "\\DesignPatternsAsp"
+    "\\DesignPatternsAsp",
+    "\\DesignPattern\\FactoryPattern"
   ],
-  "SelectedNode": "\\DesignPattern.sln",
+  "SelectedNode": "\\DesignPattern\\FactoryPattern\\Factory.cs",
   "PreviewInSolutionExplorer": false
 }

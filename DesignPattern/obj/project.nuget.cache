@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Glbm5psq17+0AGLPTBPbPVKbRCujNsMscGTfMBd+rmqQo86EEQbK6xdbVRLgPf5Tf2JzE4CU77YofGdlVVwyvg==",
+  "dgSpecHash": "vtXYua1z5HMXvGWEQYjHb/+uFETdGMeOw5UlX8wWuUtnVx3ClfPJ6rUQ1hZzMw2TAyqCwWycYi8CcKrbeqQ7Vw==",
   "success": true,
   "projectFilePath": "C:\\Rodrigo_Files\\Attivita-in-corso\\zzzTest\\DesignPattern\\DesignPattern\\DesignPattern.csproj",
   "expectedPackageFiles": [
@@ -100,7 +100,8 @@
     "C:\\Users\\itp-cons-70\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\itp-cons-70\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\itp-cons-70\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\itp-cons-70\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\itp-cons-70\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\itp-cons-70\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

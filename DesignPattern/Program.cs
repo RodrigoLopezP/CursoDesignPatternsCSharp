@@ -3,6 +3,7 @@ using DesignPattern.Models;
 using DesignPattern.RepositoryPattern;
 using DesignPattern.StrategyPattern;
 using DesignPattern.UnitOfWorkPattern;
+using DesignPattern.SingletonPattern;
 using System;
 using System.Linq;
 
@@ -12,6 +13,13 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
+            #region Singleton test
+
+            Log tonalitaNubileLog = Log.Instance;
+            tonalitaNubileLog.Save($"Ciao mondo del {DateTime.Now.ToString("dddd dd MMMM yyyy")}!");
+            tonalitaNubileLog.Save($"Addio mondo!");
+
+            #endregion
 
             //Inizio FactoryPattern
             SaleFactory storeSaleFactory = new StoreSaleFactory(15);//extra di 
@@ -25,12 +33,15 @@ namespace DesignPattern
             //Fine FactoryPattern
 
 
+
+            #region Strategy pattern test
             //var context = new Context(new CarStrategy());
             //context.Run();
             //context.Strategy = new MotoStrategy();
             //context.Run();
             //context.Strategy = new BicycleStrategy();
-            //context.Run();
+            //context.Run();          
+            #endregion
         }
     }
 }
